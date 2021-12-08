@@ -36,5 +36,5 @@ Cloned the repository
 
 ### Step - 3
 Please follow the steps to execute the Quora Topic Modeling
-- Open the file ../src/CS410 Project.ipynb file
+- Open the file "CS410 Project.ipynb" file
 

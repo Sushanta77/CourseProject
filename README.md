@@ -10,11 +10,11 @@ Below are the software requirement to run the Course Project
 - Python 3.7
 - Below are the Python Packages
 - pip install pandas
--- pip install numpy
--- pip install gensim
--- pip install nltk
--- pip install pyLDAvis
--- pip install pickle
+- pip install numpy
+- pip install gensim
+- pip install nltk
+- pip install pyLDAvis
+- pip install pickle
    
 
 # Installation of the Python Packages
@@ -23,10 +23,10 @@ Below are the Steps to install all the Packages and to run the IPython File
 ### Step - 1
 Install the following Packages (if not already installed)
 - pip install pandas
--- pip install numpy
--- pip install gensim
--- pip install nltk
--- pip install pyLDAvis
--- pip install pickle
+- pip install numpy
+- pip install gensim
+- pip install nltk
+- pip install pyLDAvis
+- pip install pickle
 
 -- 

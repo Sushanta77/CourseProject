@@ -29,4 +29,12 @@ Install the following Packages (if not already installed)
 - pip install pyLDAvis
 - pip install pickle
 
--- 
+
+### Step - 2
+Cloned the repository
+
+
+### Step - 3
+Please follow the steps to execute the Quora Topic Modeling
+- Open the file ../src/CS410 Project.ipynb file
+

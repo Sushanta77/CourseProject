@@ -3,8 +3,9 @@
 Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
 
 # Demo & Presentation Link
-- Demo video is available in the Link - https://www.youtube.com/watch?v=68mbVbstRq4
-- Presentation is available in the Link - https://github.com/Sushanta77/CourseProject/blob/main/CS410%20Course%20Project%20-%20Presentation.pptx
+- Demo video - https://www.youtube.com/watch?v=68mbVbstRq4
+- Presentation (Microsoft Power Point Version) - https://github.com/Sushanta77/CourseProject/blob/main/CS410%20Course%20Project%20-%20Presentation.pptx
+- Presentation (Pdf Version) - https://github.com/Sushanta77/CourseProject/blob/main/CS410%20Course%20Project%20-%20Presentation.pdf
 
 # Software Requirement
 
